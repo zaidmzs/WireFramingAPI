@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WireframingAPI\\WireframingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A33D793-9FE4-471C-B059-59AF9EB1E432}|WireframingAPI\\WireframingAPI.csproj|e:\\wireframingapi\\wireframingapi\\wireframingapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A33D793-9FE4-471C-B059-59AF9EB1E432}|WireframingAPI\\WireframingAPI.csproj|solutionrelative:wireframingapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A33D793-9FE4-471C-B059-59AF9EB1E432}|WireframingAPI\\WireframingAPI.csproj|e:\\wireframingapi\\wireframingapi\\wireframingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A33D793-9FE4-471C-B059-59AF9EB1E432}|WireframingAPI\\WireframingAPI.csproj|solutionrelative:wireframingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WireframingAPI\\WireframingAPI\\WireframingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WireframingAPI\\Program.cs",
+              "ToolTip": "E:\\WireframingAPI\\WireframingAPI\\WireframingAPI\\Program.cs",
+              "RelativeToolTip": "WireframingAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:35:53.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\WireframingAPI\\WireframingAPI\\WireframingAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WireframingAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\WireframingAPI\\WireframingAPI\\WireframingAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WireframingAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:54:19.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

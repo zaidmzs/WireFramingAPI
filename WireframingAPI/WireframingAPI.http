@@ -1,0 +1,6 @@
+@WireframingAPI_HostAddress = http://localhost:5194
+
+GET {{WireframingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
