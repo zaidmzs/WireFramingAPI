@@ -2,4 +2,4 @@
 
 ## Checking IC Number 
 
-![IC Number](images/migration api.png "Checking IC Number")
+![IC Number](Images/migration api.png "Checking IC Number")
